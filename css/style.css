@@ -17,3 +17,11 @@ td, th {
   color: green;
   border-bottom:5px solid green;
 }
+
+#planets th{
+  color:green;
+}
+
+#planets td{
+  font-style:italic;
+}
