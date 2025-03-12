@@ -1,27 +1,17 @@
+/* Reset and Base Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  line-height: 1.6;
+  background: #f0f2f5;
+  color: #333;
+}
+
 td, th {
-	border: 1px solid;
-  }
-
-#page-wrapper {
-  width: 1000px;
-  margin: 0 auto;
-  box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1);
-  border-radius: 12px 12px 0px 0px;
-}
-
-#header h1 {
-  position: relative;
-  text-align:center;
-  font-size: 4em;
-  font-family: 'Times New Roman', cursive;
-  color: green;
-  border-bottom:5px solid green;
-}
-
-#planets th{
-  color:green;
-}
-
-#planets td{
-  font-style:italic;
+  border: 1px solid;
 }
