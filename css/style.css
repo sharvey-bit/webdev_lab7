@@ -53,4 +53,19 @@ td, th {
   font-family: 'Times New Roman', cursive;
   color: rgb(38, 174, 28);
   border-bottom:5px solid green;
+} 
+
+/* Section Styles */
+.section-title {
+  font-size: 2rem;
+  color: #2c3e50;
+  margin-bottom: 1rem;
+  font-weight: 600;
 }
+
+.section-intro {
+  color: #666;
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
+}
+
